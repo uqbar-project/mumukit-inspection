@@ -16,3 +16,4 @@ pt:
       SourceEquals_named: 'a solução  %{must} ser igual a %{target}'
       SourceEqualsIgnoreSpaces_named: 'a solução  %{must} ser igual a %{target}'
       SourceRepeats_named: 'a solução  %{must} usar %{target} mais de uma vez'
+      JavaScript#LacksOfEndingSemicolon: 'a seguinte linha deve terminar em <code>;</code>: <pre>%{binding}</pre>'
